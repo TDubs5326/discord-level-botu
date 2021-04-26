@@ -1,0 +1,25 @@
+{
+    "name": "discord-level botu",
+    "version": "1.0.0",
+    "description": "discord-level-botu",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/remornxd/discord-level-botu.git"
+    },
+    "author": "remornxd",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/remornxd/discord-level-botu/issues"
+    },
+    "homepage": "https://github.com/remornxd/discord-level-botu#readme",
+    "engines": {
+        "node": ">=12.0.0"
+    },
+    "dependencies": {
+        "better-sqlite3": "^7.1.1",
+        "canvas": "^2.6.1",
+        "discord.js": "^12.5.1",
+        "fs": "0.0.1-security"
+    }
+}
